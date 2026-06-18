@@ -6,20 +6,20 @@ This task explains the creating a folder and cloning a repository into local com
 # Workflow
 
 * Creating a folder
-  mkdir project1
+  - mkdir project1
 * Change directory
-  cd project1
+  - cd project1
 * Initializing a repo
-  git init
+  - git init
 * Cloning a repo
-  git clone https://github.com/Pavani-30/my-first-repo
+  - git clone https://github.com/Pavani-30/my-first-repo
 * Change directory
-  cd my-first-repo
+  - cd my-first-repo
 * Creating a file
-  touch hello_world.txt
+  - touch hello_world.txt
 * Staging a file
-  git add hello_world.txt
+  - git add hello_world.txt
 * Committing
-  git commit -m "Commit my first file"
+  - git commit -m "Commit my first file"
 * Push to github
-  git push -u origin main
+  - git push -u origin main
